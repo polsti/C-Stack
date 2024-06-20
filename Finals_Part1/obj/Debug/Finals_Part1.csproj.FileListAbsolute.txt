@@ -1,0 +1,8 @@
+C:\Users\polin\OneDrive\Desktop\OOP2\Finals_Part1\bin\Debug\Finals_Part1.exe.config
+C:\Users\polin\OneDrive\Desktop\OOP2\Finals_Part1\bin\Debug\Finals_Part1.exe
+C:\Users\polin\OneDrive\Desktop\OOP2\Finals_Part1\bin\Debug\Finals_Part1.pdb
+C:\Users\polin\OneDrive\Desktop\OOP2\Finals_Part1\obj\Debug\Finals_Part1.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Desktop\OOP2\Finals_Part1\obj\Debug\Finals_Part1.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Desktop\OOP2\Finals_Part1\obj\Debug\Finals_Part1.exe
+C:\Users\polin\OneDrive\Desktop\OOP2\Finals_Part1\obj\Debug\Finals_Part1.pdb
+C:\Users\polin\OneDrive\Desktop\OOP2\Finals_Part1\bin\Debug\Persons.txt
